@@ -12,7 +12,7 @@ import re
 class HelloPlugin(BasePlugin):
 
     def __init__(self, host: APIHost):
-        self.token = 'YOUR_TOKEN'  # 请将这里的'YOUR_TOKEN'替换为你实际获取的token
+        self.token = 'bwnbb760paasekhza69tpxmrgxqlbk'  # 请将这里的'YOUR_TOKEN'替换为你实际获取的token
         self.logger = logging.getLogger(__name__)
 
     # 当收到GPT接口回复时触发
